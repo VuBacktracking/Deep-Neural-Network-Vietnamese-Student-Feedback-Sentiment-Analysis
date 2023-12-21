@@ -8,11 +8,11 @@ In this Project, I have used the Corpus named Vietnamese Student Feedback Corpus
 |LSTM| Word2Vec|90.0|89.7|89.8|89.7|
 
 ---
-## Wep Application
+## Web Application
 We have built a web application for Analyzing the Sentiment of Vietnamese Student's Feedback
 
 ### Corpus Analysis
-You can browse the corpus with a lot of feedbacks like 4 corpus in [Data/testForApp](Data/testForApp) directory. The application will predict the sentiment for each feedback, then display the dataframe of result and the chart for analysis.
+You can browse the corpus with a lot of feedbacks like 4 corpus in [Data/testForApp](Data/testForApp) directory. The application will predict the sentiment for each feedback, then display the dataframe of the result and the chart for analysis.
 <p align = "center">
     <img src="images/forapp/corpus1.png" alt="workflow" width="70%">
 </p>
