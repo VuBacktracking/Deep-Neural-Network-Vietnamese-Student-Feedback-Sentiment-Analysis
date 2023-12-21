@@ -26,7 +26,7 @@ You can browse the corpus with a lot of feedbacks like 4 corpus in [Data/testFor
 </p>
 
 ### Sentence's Sentiment Analysis
-You can input a Vietnamese feedback about school or university, the application will predict the sentiment and display the polarity beside.
+You can input Vietnamese feedback about schools and universities including lecturers, facilities, curriculum, etc, the application will predict the sentiment and display the polarity beside.
 <p align = "center">
     <img src="images/forapp/sentiment1.png" alt="workflow" width="70%">
 </p>
