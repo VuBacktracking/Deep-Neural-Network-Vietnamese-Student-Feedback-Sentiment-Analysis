@@ -39,7 +39,7 @@ You can input a Vietnamese feedback about school or university, the application 
 ## How to use?
 #### Clone the project
 ```bash
-git clone https://github.com/VuBacktracking/
+git clone https://github.com/VuBacktracking/Vietnamese-Student-Feedback-Sentiment-Analysis.git
 ```
 #### Install required packages
 
