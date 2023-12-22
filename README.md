@@ -1,6 +1,6 @@
 # Vietnamese Student Feedback Sentiment Analysis Project
 ---
-In this Project, I have used the Corpus named Vietnamese Student Feedback Corpus, which belongs to The UIT NLP Group and has more than 16,000 feedback from Vietnamese students, to solve the Sentiment Analysis task. I have done some models and chosen the best model which has resulted in the following table
+In this Project, I have used the Corpus named Vietnamese Student Feedback Corpus, which belongs to The UIT NLP Group and has more than 16,000 pieces of feedback from Vietnamese students, to solve the Sentiment Analysis task. I have trained some models such as MaxEnt, SVM, Naive Bayes, and LSTM, and chose the best model with the result in the following table.
 
 ## Model used:
 |Model|Feature|Precision|Recall|F1-Score|Accuracy|
