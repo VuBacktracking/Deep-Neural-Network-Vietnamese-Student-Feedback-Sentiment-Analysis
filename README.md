@@ -68,3 +68,4 @@ ___
 ## Future Work
 * Using Bi-LSTM to increase the accuracy.
 * Using modern models such as PhoBERT, RoBERTa, or GPT-2, GPT-3 and fine tuning to improve the Accuracy.
+* Comparison between the above models.
