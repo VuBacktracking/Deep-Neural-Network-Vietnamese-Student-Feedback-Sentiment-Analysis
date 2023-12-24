@@ -8,6 +8,11 @@ In this Project, I have used the Corpus named Vietnamese Student Feedback Corpus
 |---|---|---|---|---|---|
 |LSTM| Word2Vec|90.0|89.7|89.8|89.7|
 
+### Word2Vec
+<p align = "center">
+    <img src="images/word2vec.png" alt="workflow" width="70%">
+</p>
+
 ---
 ## Web Application
 We have built a web application for Analyzing the Sentiment of Vietnamese Student's Feedback
