@@ -51,4 +51,4 @@ D. Acronyms (Some strings have been replaced by the string which contains only l
 
 ---
 
-**Note**: The [corpus](Corpus. txt) was created by randomly shuffling three sents.txt corpora and adding them to one file.
+**Note**: The [corpus](Corpus.txt) was created by randomly shuffling three sents.txt corpora and adding them to one file.
