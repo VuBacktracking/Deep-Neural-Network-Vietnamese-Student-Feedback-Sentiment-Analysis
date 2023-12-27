@@ -27,6 +27,7 @@ C. The structure of "topics.txt" file:
 		'3' is a label related to others.
 
 D. Acronyms (Some strings have been replaced by the string which contains only letter.)\\
+
 	:)  colonsmile
 	:(  colonsad
 	@@  colonsurprise
