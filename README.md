@@ -71,7 +71,3 @@ streamlit run app.py
 ```
 ___
 ## Future Work
-* Using Bi-LSTM to increase the accuracy.
-* Using modern models such as PhoBERT, and combining PhoBERT with deeplearning models to improve the accuracy.
-* Comparison between the above models.
-* Solve the Text Classification (Topics) problem for the dataset by the above models.
