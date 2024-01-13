@@ -31,7 +31,7 @@ You can browse the corpus which contains feedback like 4 corpora in the [**Data/
     <img src="images/forapp/corpus3.png" alt="workflow" width="70%">
 </p>
 
-### Sentence's Sentiment Analysis
+### Feedback's Sentiment Analysis
 You can input Vietnamese feedback about schools and universities including lecturers, facilities, curriculum, etc, the application will predict the sentiment and display the polarity beside.
 <p align = "center">
     <img src="images/forapp/sentiment1.png" alt="workflow" width="70%">
