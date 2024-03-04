@@ -45,7 +45,7 @@ You can input Vietnamese feedback about schools and universities including lectu
 ## How to use?
 #### Clone the project
 ```bash
-git clone https://github.com/VuBacktracking/Vietnamese-Student-Feedback-Sentiment-Analysis-Web-App.git
+git clone https://github.com/VuBacktracking/Deep-Neural-Network-Vietnamese-Student-Feedback-Sentiment-Analysis.git
 ```
 #### Install required packages
 
