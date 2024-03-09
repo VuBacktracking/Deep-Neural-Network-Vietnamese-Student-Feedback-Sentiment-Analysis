@@ -1,6 +1,10 @@
 # Vietnamese Student Feedback Sentiment Analysis Project
 ---
+<<<<<<< HEAD
 In this Project, I have used the Corpus named Vietnamese Student Feedback Corpus, which belongs to The UIT NLP Group and has more than 16,000 feedback from Vietnamese students, to solve the Sentiment Analysis task. I have done some models and chosen the best model which has resulted in the following table\
+=======
+In this Project, I have used the Corpus named Vietnamese Student Feedback Corpus, which belongs to The UIT NLP Group and has more than 16,000 pieces of feedback from Vietnamese students, to solve the Sentiment Analysis task. I have trained some models and chose the best model with the result in the following table.\
+>>>>>>> origin/main
 **Note**: You can download the corpora in https://nlp.uit.edu.vn/
 
 ## Model used:
@@ -31,7 +35,11 @@ You can browse the corpus which contains feedback like 4 corpora in the [**Data/
     <img src="images/forapp/corpus3.png" alt="workflow" width="70%">
 </p>
 
+<<<<<<< HEAD
 ### Sentence's Sentiment Analysis
+=======
+### Feedback's Sentiment Analysis
+>>>>>>> origin/main
 You can input Vietnamese feedback about schools and universities including lecturers, facilities, curriculum, etc, the application will predict the sentiment and display the polarity beside.
 <p align = "center">
     <img src="images/forapp/sentiment1.png" alt="workflow" width="70%">
@@ -71,4 +79,7 @@ streamlit run app.py
 ```
 ___
 ## Future Work
+<<<<<<< HEAD
 Using modern model like PhoBERT, RoBERTa to improve the accuracy.
+=======
+>>>>>>> origin/main

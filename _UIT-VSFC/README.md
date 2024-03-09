@@ -27,6 +27,7 @@ C. The structure of "topics.txt" file:
 		'3' is a label related to others.
 
 D. Acronyms (Some strings have been replaced by the string which contains only letter.)
+
 	:)  colonsmile
 	:(  colonsad
 	@@  colonsurprise
@@ -49,4 +50,5 @@ D. Acronyms (Some strings have been replaced by the string which contains only l
 	c# csharp
 
 ---
-*Note:* The [corpus](Corpus.txt) was created by random shuffle three sents.txt corpus and added in one file.
+
+**Note**: The [corpus](Corpus.txt) was created by randomly shuffling three sents.txt corpora and adding them to one file.
